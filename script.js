@@ -62,6 +62,5 @@ function getContrastColor(rgb) {
 
   return brightness > 125 ? "#000000" : "#FFFFFF";
 }
-// Generate a color when page loads
-button.click();
+
 
